@@ -6,7 +6,7 @@ class App extends React.Component {
     super();
 
     // an example array of items to be paged
-    var exampleItems = [...Array(150).keys()].map(i => ({
+    var exampleItems = [...Array(100).keys()].map(i => ({
       id: i + 1,
       name: "Item " + (i + 1)
     }));
