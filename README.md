@@ -4,7 +4,7 @@ React Pagination
 
 ## What is it?
 
-Simple react pagination
+Simple react pagination based on https://github.com/cornflourblue/react-pagination-example
 
 ## What technologies are used?
 
